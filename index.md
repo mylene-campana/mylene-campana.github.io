@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Shot Presentation
 
-You can use the [editor on GitHub](https://github.com/mylene-campana/mylene-campana.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Mylène Campana. I'm a French woman specialized in Robotics and Computer Sciences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently finishing my PhD in Robotics in the [GEPETTO Team](http://projects.laas.fr/gepetto/index.php) of LAAS-CNRS, under the supervision of Jean-Paul Laumond. I am also attached to the Université Paul Sabatier (Toulouse III), Toulouse, France.
 
-### Markdown
+I will be looking for a job from September 2017 in any country.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mylene-campana/mylene-campana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**As this page is still in construction, you can find more information [here](http://projects.laas.fr/gepetto/index.php/Members/MyleneCampana).**
