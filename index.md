@@ -17,11 +17,12 @@ For instance, a simple path-optimizer that shortens solution-paths obtained by p
 For more information about these works, you can find my publications [here](https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/mylene-campana) (freely available in PDF).
 
 However, my research interests are not limited to my PhD subject, I am also paying attention to:
+
 - artificial intelligence and machine learning
 - robotics and ethics
 - computer animation
 
 ## Teaching
 In the continuity of achieving the [Agrégation SII](http://www.devenirenseignant.gouv.fr/cid98734/les-epreuves-de-l-agregation-externe-section-sciences-industrielles-de-l-ingenieur.html) teacher contest in Industrial Sciences for the Engineer in 2013, I started to teach during my PhD. 
-I give practical classes at the Université Paul Sabatier - Toulouse III (France), at Bachelor and Master levels. These exercises are about robotics bases, robotics command with ROS, robotics simulation with Matlab and basic C programming.
+I give practical classes at the Université Paul Sabatier, at Bachelor and Master levels (niveaux L3-M1-M2). These exercises are about robotics bases, robotics command with ROS, robotics simulation with Matlab and basic C programming.
 
