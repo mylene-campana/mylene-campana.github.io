@@ -17,7 +17,7 @@ For instance, a simple path-optimizer that shortens solution-paths obtained by p
 
 For more information about these works, you can find my publications [here](https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/mylene-campana) (freely available in PDF).
 
-![image](https://github.com/mylene-campana/mylene-campana.github.io/blob/master/images/combined_images.png)
+![Image](https://raw.githubusercontent.com/mylene-campana/mylene-campana.github.io/master/images/combined_images.png)
 
 
 However, my research interests are not limited to my PhD subject, I am also paying attention to:
