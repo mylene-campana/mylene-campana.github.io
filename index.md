@@ -6,6 +6,8 @@ I am currently finishing my PhD in Robotics in the [Gepetto team](http://project
 
 I will be looking for a job from October 2017 in any country, preferentially a post-doc.
 
+Contact: mcampana@laas.fr
+
 ## Biography
 I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one in [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one in the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory.
 
@@ -13,7 +15,7 @@ Then, I followed the research [Master](http://www.univ-tlse3.fr/masters/master-r
 
 ## Research interests
 My PhD thesis is about "Motion Planning for Digital Actors". I focus on designing and implementing new algorithms in the Humanoid-Path-Planner software. I also conceive benchmarks to test the algorithms, including new characters and environments made with the Blender software.
-For instance, a simple path-optimizer that shortens solution-paths obtained by probabilistic planners has been created and tested in various environments. I am also interested in planning jumping motions for characters in arbitrary 3D environments, under constraints such as non-slippage and velocity limitations. The resulting motions are closed to current computer animation themes of study.
+For instance, a simple path-optimizer that shortens solution-paths obtained by probabilistic planners has been created and tested in various environments. I am also interested in planning jumping motions for characters in arbitrary 3D environments, under constraints such as non-slippage and velocity limitations. The resulting motions are close to current computer animation themes of study.
 
 For more information about these works, you can find my publications [here](https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/mylene-campana) (freely available in PDF).
 
