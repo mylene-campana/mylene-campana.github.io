@@ -14,7 +14,9 @@ I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.f
 Then, I followed the research [Master](http://www.univ-tlse3.fr/masters/master-robotique-decision-et-commande-664393.kjsp?RH=1454074064222) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014.
 
 ## Research interests
-My PhD thesis is about "Motion Planning for Digital Actors". I focus on designing and implementing new algorithms in the Humanoid-Path-Planner software. I also conceive benchmarks to test the algorithms, including new characters and environments made with the Blender software.
+**Keywords: motion planning, computer animation, jumping motion, path optimization**
+
+My PhD thesis is about "Motion Planning for Digital Actors". I focus on designing and implementing new algorithms in the [Humanoid-Path-Planner library](http://humanoid-path-planner.github.io/hpp-doc/index.html). I also conceive benchmarks to test the algorithms, including new characters and environments made with the Blender software.
 For instance, a simple path-optimizer that shortens solution-paths obtained by probabilistic planners has been created and tested in various environments. I am also interested in planning jumping motions for characters in arbitrary 3D environments, under constraints such as non-slippage and velocity limitations. The resulting motions are close to current computer animation themes of study.
 
 For more information about these works, you can find my publications [here](https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/mylene-campana) (freely available in PDF).
@@ -26,6 +28,7 @@ However, my research interests are not limited to my PhD subject, I am also payi
 
 - artificial intelligence and machine learning
 - robotics and ethics
+- human-robot interaction
 - computer animation
 
 ## Teaching
