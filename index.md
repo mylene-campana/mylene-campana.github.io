@@ -8,6 +8,9 @@ I will be looking for a job from October 2017 in any country, preferentially a p
 
 Contact: mcampana@laas.fr
 
+[Linkedin](https://www.linkedin.com/in/mylène-campana-7889a2b1)
+[ResearchGate](https://www.researchgate.net/profile/Mylene_Campana)
+
 ## Biography
 I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one in [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one in the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory.
 
