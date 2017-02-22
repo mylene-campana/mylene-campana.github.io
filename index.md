@@ -11,11 +11,6 @@ Contact: mcampana@laas.fr
 [Linkedin](https://www.linkedin.com/in/mylène-campana-7889a2b1)
 [ResearchGate](https://www.researchgate.net/profile/Mylene_Campana)
 
-## Biography
-I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one in [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one in the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory.
-
-Then, I followed the research [Master](http://www.univ-tlse3.fr/masters/master-robotique-decision-et-commande-664393.kjsp?RH=1454074064222) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014.
-
 ## Research interests
 **Keywords: motion planning, computer animation, jumping motion, path optimization**
 
@@ -38,3 +33,7 @@ However, my research interests are not limited to my PhD subject, I am also payi
 In the continuity of achieving the [Agrégation SII](http://www.devenirenseignant.gouv.fr/cid98734/les-epreuves-de-l-agregation-externe-section-sciences-industrielles-de-l-ingenieur.html) teacher contest in Industrial Sciences for the Engineer in 2013, I started to teach during my PhD. 
 I give practical classes at the Université Paul Sabatier, at Bachelor and Master levels (niveaux L3-M1-M2). These exercises are about robotics bases, robotics command with ROS, robotics simulation with Matlab and basic C programming.
 
+## Biography
+I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one in [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one in the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory.
+
+Then, I followed the research [Master](http://www.univ-tlse3.fr/masters/master-robotique-decision-et-commande-664393.kjsp?RH=1454074064222) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014.
