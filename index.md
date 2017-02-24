@@ -1,6 +1,6 @@
 ## Short Presentation
 
-Hello, my name is Mylène Campana. I'm a French woman specialized in Robotics and Computer Sciences.
+Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
 
 I am currently finishing my PhD in Robotics in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of LAAS-CNRS, under the supervision of Jean-Paul Laumond. I am also attached to the Université Paul Sabatier (Toulouse III), Toulouse, France.
 
