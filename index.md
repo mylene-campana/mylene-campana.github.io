@@ -2,7 +2,7 @@
 
 Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
 
-I am currently finishing my PhD in Robotics in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of LAAS-CNRS, under the supervision of Jean-Paul Laumond. I am also attached to the Université Paul Sabatier (Toulouse III), Toulouse, France.
+I am currently finishing my PhD in Robotics in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of LAAS-CNRS, under the supervision of Jean-Paul Laumond. My project is funded by the Université Paul Sabatier (Toulouse III), Toulouse, France.
 
 I will be looking for a job from November 2017 in any country, preferentially a post-doc position in robotics or computer animation.
 
