@@ -3,7 +3,7 @@
 Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
 
 I am currently working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
-I defended my PhD thesis on _Motion planning for digital actors_ the 7th of July 2017.
+I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
 
 I will be looking for a job from January 2018 in the USA or in the Canada, preferentially a post-doc position in robotics or computer animation.
 
@@ -38,7 +38,7 @@ However, my research interests are not limited to my PhD subject, I am also payi
 - *HPP: a new software for constrained motion planning*. J. Mirabel, S. Tonneau, P. Fernbach, A.-K. Seppälä, M. Campana, N. Mansard and F. Lamiraux. IROS, 2016. [Editor version](http://ieeexplore.ieee.org/document/7759083/) - [PDF](https://hal.archives-ouvertes.fr/hal-01290850/document) - [Video](https://youtu.be/01K_nmax9E0)
 - *Ballistic motion planning*. M. Campana and J.-P. Laumond. IROS, 2016. [Editor version](http://ieeexplore.ieee.org/document/7759230/) - [PDF](https://hal.archives-ouvertes.fr/hal-01288796v2/document) - [Video](https://youtu.be/vv_K7HqANmk)
 - *Ballistic motion planning for jumping superheroes*. M. Campana, P. Fernbach, S. Tonneau, M. Taïx and J.-P. Laumond. Motion in Games (MIG), 2016. [Editor version](http://dl.acm.org/citation.cfm?doid=2994258.2994279) - [PDF](https://hal.archives-ouvertes.fr/hal-01366796/document) - [Video](https://youtu.be/GGisCV5BoHw)
-- HOWTO make characters for HPP using Blender, and export HPP paths toward Blender. M. Campana. [PDF](https://github.com/mylene-campana/hpp-rbprm-corba/blob/convexCone/doc/character_creation/CharacterCreation.pdf)
+- *HOWTO make characters for HPP using Blender, and export HPP paths toward Blender*. M. Campana. [PDF](https://github.com/mylene-campana/hpp-rbprm-corba/blob/convexCone/doc/character_creation/CharacterCreation.pdf)
 
 ## Teaching
 In the continuity of achieving the [Agrégation SII](http://www.devenirenseignant.gouv.fr/cid98734/les-epreuves-de-l-agregation-externe-section-sciences-industrielles-de-l-ingenieur.html) teacher contest in Industrial Sciences for the Engineer in 2013, I teached during my PhD (192 hours). 
