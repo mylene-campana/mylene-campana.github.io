@@ -2,12 +2,12 @@
 
 Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
 
-I am currently working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
+I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
 I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
 
-I will be looking for a job from January 2018 in the USA or in the Canada, preferentially a post-doc position in robotics or computer animation.
+I am actively looking for a job from January 2018 in the USA or in the Canada, preferentially a post-doc position in robotics or computer animation.
 
-Contact: mcampana at laas dot fr
+Contact: mylene dot camp at gmail dot fr
 
 [Linkedin](https://www.linkedin.com/in/mylène-campana-7889a2b1)
 [ResearchGate](https://www.researchgate.net/profile/Mylene_Campana)
@@ -31,6 +31,7 @@ However, my research interests are not limited to my PhD subject, I am also payi
 - robotics and ethics
 - human-robot interaction
 - computer animation
+- manipulation planning
 
 ## Publications
 
