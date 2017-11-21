@@ -32,6 +32,7 @@ However, my research interests are not limited to my PhD subject, I am also payi
 - human-robot interaction
 - computer animation
 - manipulation planning
+- robot design by optimization
 
 ## Publications
 
