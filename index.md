@@ -7,7 +7,7 @@ I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of J
 
 I am actively looking for a job from January 2018 in the USA or in the Canada, preferentially a post-doc position in robotics or computer animation.
 
-Contact: mylene dot camp at gmail dot fr
+Contact: mylene.camp at gmail.fr
 
 [Linkedin](https://www.linkedin.com/in/mylène-campana-7889a2b1)
 [ResearchGate](https://www.researchgate.net/profile/Mylene_Campana)
