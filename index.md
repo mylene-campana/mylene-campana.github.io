@@ -41,7 +41,8 @@ However, my research interests are not limited to my PhD subject, I am also payi
 - *HPP: a new software for constrained motion planning*. J. Mirabel, S. Tonneau, P. Fernbach, A.-K. Seppälä, M. Campana, N. Mansard and F. Lamiraux. IROS, 2016. [Editor version](http://ieeexplore.ieee.org/document/7759083/) - [PDF](https://hal.archives-ouvertes.fr/hal-01290850/document) - [Video](https://youtu.be/01K_nmax9E0)
 - *Ballistic motion planning*. M. Campana and J.-P. Laumond. IROS, 2016. [Editor version](http://ieeexplore.ieee.org/document/7759230/) - [PDF](https://hal.archives-ouvertes.fr/hal-01288796v2/document) - [Video](https://youtu.be/vv_K7HqANmk)
 - *Ballistic motion planning for jumping superheroes*. M. Campana, P. Fernbach, S. Tonneau, M. Taïx and J.-P. Laumond. Motion in Games (MIG), 2016. [Editor version](http://dl.acm.org/citation.cfm?doid=2994258.2994279) - [PDF](https://hal.archives-ouvertes.fr/hal-01366796/document) - [Video](https://youtu.be/GGisCV5BoHw)
-- *HOWTO make characters for HPP using Blender, and export HPP paths toward Blender*. M. Campana. [PDF](https://github.com/mylene-campana/hpp-rbprm-corba/blob/convexCone/doc/character_creation/CharacterCreation.pdf)
+- *HOWTO make characters for HPP using Blender, and export HPP paths toward Blender*. M. Campana, 2017. [PDF](https://github.com/mylene-campana/hpp-rbprm-corba/blob/convexCone/doc/character_creation/CharacterCreation.pdf)
+- *Motion planning for digital actors*. M. Campana, PhD thesis, 2017. [PDF](https://hal-laas.archives-ouvertes.fr/tel-01591472/document)
 
 ## Teaching
 In the continuity of achieving the [Agrégation SII](http://www.devenirenseignant.gouv.fr/cid98734/les-epreuves-de-l-agregation-externe-section-sciences-industrielles-de-l-ingenieur.html) teacher contest in Industrial Sciences for the Engineer in 2013, I teached during my PhD (192 hours). 
