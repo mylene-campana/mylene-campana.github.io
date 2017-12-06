@@ -27,7 +27,8 @@ For more information about these works, you can find my publications below.
 
 However, my research interests are not limited to my PhD subject, I am also paying attention to:
 
-- artificial intelligence and machine learning
+- artificial intelligence
+- machine learning
 - robotics and ethics
 - human-robot interaction
 - computer animation
@@ -49,4 +50,4 @@ I gave practical classes at the Université Paul Sabatier, at Bachelor and Maste
 ## Biography
 I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one at [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one at the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory of the Iowa State.
 
-Then, I followed the research [Master](http://www.univ-tlse3.fr/masters/master-robotique-decision-et-commande-664393.kjsp?RH=1454074064222) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014 and finished in August 2017, and was funded by the French national grant _CDSN_ provided by the ENS Rennes.
+Then, I followed the research [Master](https://masterrodeco.wordpress.com) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014 and finished in August 2017, and was funded by the French national grant _CDSN_ provided by the ENS Rennes.
