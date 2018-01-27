@@ -5,7 +5,9 @@ Hello, my name is Mylène Campana. I'm a French woman specialized in computer sc
 I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
 I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
 
-I am actively looking for a job from January 2018 in the USA or in the Canada, preferentially a post-doc position in robotics or computer animation.
+I am actively looking for a post-doc or a researcher/engineer position (temporary or permanent contract), in North America or in France (preferably in Nantes or Rennes).
+
+In the future, I plan to do project management at the crossroads of research and industry. I want my project(s) to combine AI capacities, robotics and interactions to improve the integration of smart robots or virtual actors in the human world.
 
 Contact: mylene.camp at gmail.fr
 
@@ -15,10 +17,14 @@ Contact: mylene.camp at gmail.fr
 ## Research interests
 **Keywords: motion planning, computer animation, jumping motion, path optimization, simulation**
 
-During my thesis, I focused on designing and implementing new algorithms in the [Humanoid-Path-Planner library](http://humanoid-path-planner.github.io/hpp-doc/index.html) (HPP). I also conceived benchmarks to test the algorithms, including new characters and environments made with the Blender software.
-For instance, we developed a gradient-based path-optimizer that shortens solution-paths obtained by probabilistic planners. The optimizer has been tested in various environments and compared to other existing methods.
 
-I was also interested in planning jumping motions for characters in arbitrary 3D environments, under physics-inspired constraints such as non-slippage and velocity limitations. The rendering of HPP planned paths is improved using Blender rigging tool and personal code. Thus the resulting motions are close to current computer animation themes of study.
+The title of my PhD thesis is “Motion Planning for Digital Actors” and my supervisor was Dr. Jean-Paul Laumond. My thesis was written and defended in English.
+
+I have designed and implemented new algorithms in the [Humanoid-Path-Planner library](http://humanoid-path-planner.github.io/hpp-doc/index.html) software. This includes software development in C++ and scripting in Python on Linux. I have also conceived benchmarks to test the algorithms, including new characters and environments made with the Blender software.
+
+My first contribution is a path-optimizer that shortens solution-paths obtained by probabilistic planners. It has been compared to similar algorithms in various environments.
+My second contribution is the design of a new planner for jumping motions in arbitrary 3D environments. Physics-inspired constraints such as non-slippage and velocity limitations improve the plausibility of the trajectories. The returned motions are comparable to computer animation results.
+In order to improve the graphical rendering, I have also designed tools to export the generated motions to the modeling application Blender. Similarly, I have proposed guidelines to create characters and to apply the rigging tool for motion planning with Blender.
 
 For more information about these works, you can find my publications below.
 
@@ -27,13 +33,14 @@ For more information about these works, you can find my publications below.
 
 However, my research interests are not limited to my PhD subject, I am also paying attention to:
 
-- artificial intelligence
-- machine learning
-- robotics and ethics
-- human-robot interaction
-- computer animation
-- manipulation planning
-- robot design by optimization
+- artificial intelligence,
+- machine learning,
+- robotics and ethics,
+- human-robot interaction,
+- computer animation,
+- virtual reality,
+- manipulation planning,
+- robot design by optimization.
 
 ## Publications
 
@@ -46,9 +53,9 @@ However, my research interests are not limited to my PhD subject, I am also payi
 
 ## Teaching
 In the continuity of achieving the [Agrégation SII](http://www.devenirenseignant.gouv.fr/cid98734/les-epreuves-de-l-agregation-externe-section-sciences-industrielles-de-l-ingenieur.html) teacher contest in Industrial Sciences for the Engineer in 2013, I teached during my PhD (192 hours). 
-I gave practical classes at the Université Paul Sabatier, at Bachelor and Master levels (niveaux L3-M1-M2). These exercises were about robotics bases, robotics command with ROS, robotics simulation with Matlab and C-Matlab programming.
+I gave practical classes at the Université Paul Sabatier, at Bachelor and Master levels (niveaux L3-M1-M2). These exercises were about robotics bases, robotics command with ROS, robotics simulation with Matlab, automation with Simulink, and C-Matlab programming.
 
 ## Biography
-I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. I also completed two interships: one at [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French Robotics company, and one at the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory of the Iowa State.
+I graduated in Mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr) in 2013. During my studies, I completed two internships: one at [Aldebaran Robotics](http://www.ald.softbankrobotics.com), a French company on humanoid robotics, and one at the Virtual Reality Application Center [VRAC](http://www.vrac.iastate.edu), an American laboratory of the Iowa State University. I have also collaborated in a project with [BA Systèmes](http://www.basystemes.com/fr/), a French company on autonomous industrial robots.
 
 Then, I followed the research [Master](https://masterrodeco.wordpress.com) "Artificial Intelligence, Pattern Recognition and Robotics" at the University Paul Sabatier (Toulouse) in 2013-2014. I completed the Master with an internship in the Gepetto team where I discovered motion planning. My PhD started in September 2014 and finished in August 2017, and was funded by the French national grant _CDSN_ provided by the ENS Rennes.
