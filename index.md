@@ -5,6 +5,8 @@ Hello, my name is Mylène Campana. I'm a French woman specialized in computer sc
 I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
 I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
 
+I am currently working at [BA Healthcare](http://www.bahealthcare.eu) (Rennes, France) as an embedded software engineer for medical robotics.
+
 In the future, I plan to work on projects at the crossroads of research and industry. I want my projects to combine AI capacities, robotics and interactions to improve the integration of smart robots or virtual actors in the human world.
 
 Contact: mylene.camp at gmail.fr
