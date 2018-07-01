@@ -9,7 +9,7 @@ I am currently working at [BA Healthcare](http://www.bahealthcare.eu) (Rennes, F
 
 In the future, I plan to work on projects at the crossroads of research and industry. I want my projects to combine AI capacities, robotics and interactions to improve the integration of smart robots or virtual actors in the human world.
 
-Contact: mylene.camp at gmail.fr
+Contact: mylene.camp at gmail.com
 
 [Linkedin](https://www.linkedin.com/in/mylène-campana-7889a2b1)
 [ResearchGate](https://www.researchgate.net/profile/Mylene_Campana)
