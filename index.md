@@ -2,12 +2,12 @@
 
 Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
 
-I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, France, under the supervision of Jean-Paul Laumond.
+I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, under the supervision of Jean-Paul Laumond.
 I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
 
-I am currently working at [BA Healthcare](http://ba-healthcare.com) (Rennes, France) as a software engineer:
+I am currently working at [BA Healthcare](http://ba-healthcare.com) (Rennes) as a software engineer:
 - Development of embedded real-time software for medical robotics.
-- Design of algorithms for trajectory motion control, failure detection and for the the automation of tests.
+- Design of algorithms for trajectory motion control, failure detection and test automation.
 - Test plan writing.
 - Agile method.
 - Norms: ISO 9001, IEC 62304 (ISO 13485)
