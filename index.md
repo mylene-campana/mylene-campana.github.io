@@ -16,7 +16,7 @@ I am currently working at [BA Healthcare](http://ba-healthcare.com) (Rennes) as 
 - Mechatronics failure analysis on prototypes.
 - Help to estimate project costing.
 
-I am currently open to software engineer proposals in the South of Rennes (between Rennes and Bain-de-Bretagne).
+I am open to software engineer proposals in the South of Rennes (between Rennes and Bain-de-Bretagne).
 
 I am open to learn and work on new subjects such as **AI** or **cyber security**. 
 
