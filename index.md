@@ -1,18 +1,24 @@
 ## Short Presentation
 
-Hello, my name is Mylène Campana. I'm a French woman specialized in computer science, robotics and computer animation.
+Hello, my name is Mylène Campana. I'm specialized in computer science and robotics.
 
 I was working on robotics & animation in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) of the LAAS-CNRS Toulouse, under the supervision of Jean-Paul Laumond.
-I defended my PhD thesis on _Motion planning for digital actors_ on the 7th of July 2017.
+I defended my **PhD thesis** on _Motion planning for digital actors_ on the 7th of July 2017.
+Previously, I studied mechatronics at [ENS Rennes](http://www.mecatronique.ens-rennes.fr).
 
 I am currently working at [BA Healthcare](http://ba-healthcare.com) (Rennes) as a software engineer:
-- Development of embedded real-time software for medical robotics.
-- Design of algorithms for trajectory motion control, failure detection and test automation.
-- Test plan writing.
-- Agile method.
-- Norms: ISO 9001, IEC 62304 (ISO 13485)
+- Development of embedded real-time software (C++ Linux) for medical robotics.
+- Agile method. Norms: ISO 9001, IEC 62304 (ISO 13485).
+- Design of algorithms for trajectory motion control, statistical analysis of performances and of customer feedbacks.
+- Configuration of new hardward components (drive controllers).
+- Work on failure detection and test automation.
+- Writing of design reviews and test plans.
+- Mechatronics failure analysis on prototypes.
+- Help to estimate project costing.
 
-In the future, I plan to work on **AI and Robotics projects** at the crossroads of research and industry.
+I am currently open to software engineer proposals in the South of Rennes (between Rennes and Bain-de-Bretagne).
+
+I am open to learn and work on new subjects such as **AI** or **cyber security**. 
 
 Contact: mylene.camp at gmail.com
 
